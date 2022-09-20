@@ -25,6 +25,7 @@ MatuxMod does collect the following data:
 
 - Name
 - Goodloss account (if connected)
+- or Town Of Modrole Account soon Only On TOM
 - Role
 - Team : Crewmate / Impostor / Neutral / Others
 - Tasks completed
